@@ -32,5 +32,5 @@ In this place you could acces to shor projects
 
 [![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-david-acevedo-ba0242339/)
 [![🐦 X (Twitter)](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter)](https://twitter.com/JuanAcevedo008)
-[![📸 Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/juan._.894/)
+[![📸 Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/juandavid08948/)
 
