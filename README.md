@@ -30,7 +30,7 @@ In this place you could acces to shor projects
 
 🚀 Have questions, ideas, or just want to connect? Feel free to reach out! I'm always excited to collaborate, learn, and build amazing things together.  
 
-[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-david-acevedo-ba0242339/)
+[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-acevedo-ba0242339/)
 [![🐦 X (Twitter)](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter)](https://twitter.com/JuanAcevedo008)
 [![📸 Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/juandavid08948/)
 
