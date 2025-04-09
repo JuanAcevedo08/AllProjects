@@ -1,23 +1,23 @@
-estudiantes = {
-   "Ana": {
-"Apellidos": "Sanchez Fernanez", "Edad": 17, "Tiempo en la escuela ": "9 meses" 
-    },
-    "Juan": {
-"Apellidos": "Musk Tringer", "Edad": 18, "Tiempo en la escuela ": "10 meses" 
-    },
-    "Steve": {
-"Apellidos": "Sanchez Fernanez", "Edad": 17, "Tiempo en la escuela ": "2 años" 
-    },
-    "Bella": {
-"Apellidos": "RichPur", "Edad": 16, "Tiempo en la escuela ": "9 años" 
-    },
-    "Robert": {
-"Apellidos": "Gomez Hernandez", "Edad": 19, "Tiempo en la escuela ": "2 meses" 
-    }
+students = {
+    "Ana": {
+"Surname": "Sanchez Fernanez", "Age": 17, "Time in school": "9 months" 
+     },
+     "Juan": {
+"Surname": "Musk Tringer", "Age": 18, "Time in school": "10 months" 
+     },
+     "Steve": {
+"Surname": "Sanchez Fernanez", "Age": 17, "Time in school": "2 years" 
+     },
+     "Bella": {
+"Surname": "RichPur", "Age": 16, "Time in school": "9 years" 
+     },
+     "Robert": {
+"Surname": "Gomez Hernandez", "Age": 19, "Time in school": "2 months" 
+     }
 }
-print("💚Bienvenido Al Sistema De Estudiantes Del Colegio YorkRize", end=" ")
-print("A que alumno quiere revisar hoy ?💚")
-Keys = estudiantes.keys()
-print("Los estudiantes son :", Keys )
-RequestDirectory = input("Escriba el nombre de la persona ")
-print("El estudiante es: ", estudiantes[RequestDirectory])
+print("💚Welcome to the YorkRize School Student System", end=" ")
+print("Which student would you like to review today?💚")
+keys = students.keys()
+print("The students are:", keys)
+request_directory = input("Enter the name of the student: ")
+print("The student is:", students[request_directory])
