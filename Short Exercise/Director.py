@@ -3,7 +3,7 @@ estudiantes = {
 "Apellidos": "Sanchez Fernanez", "Edad": 17, "Tiempo en la escuela ": "9 meses" 
     },
     "Juan": {
-"Apellidos": "Sanchez Fernanez", "Edad": 17, "Tiempo en la escuela ": "9 meses" 
+"Apellidos": "Musk Tringer", "Edad": 17, "Tiempo en la escuela ": "9 meses" 
     },
     "Steve": {
 "Apellidos": "Sanchez Fernanez", "Edad": 17, "Tiempo en la escuela ": "9 meses" 
