@@ -15,6 +15,9 @@ estudiantes = {
 "Apellidos": "Gomez Hernandez", "Edad": 19, "Tiempo en la escuela ": "2 meses" 
     }
 }
-print("Bienvenido Al Sistema De Estudiantes Del Colegio YorkRize", end=" ")
-print("A que alumno quiere revisar hoy ?")
-print(estudiantes.keys())
+print("💚Bienvenido Al Sistema De Estudiantes Del Colegio YorkRize", end=" ")
+print("A que alumno quiere revisar hoy ?💚")
+Keys = estudiantes.keys()
+print("Los estudiantes son :", Keys )
+RequestDirectory = input("Escriba el nombre de la persona ")
+print("El estudiante es: ", estudiantes[RequestDirectory])
