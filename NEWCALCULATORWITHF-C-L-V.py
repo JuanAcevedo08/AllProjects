@@ -1,44 +1,44 @@
-user = input("Cual es tu usuario? ")
-def suma(a,b):
-    return a+b
+user = input("What is your username? ")
+def add(a, b):
+    return a + b
 
-def resta(a,b):
-    return a-b
+def subtract(a, b):
+    return a - b
 
-def multiplicacion(a,b):
-    return a*b
+def multiply(a, b):
+    return a * b
 
-def division(a,b):
-    return a/b
+def divide(a, b):
+    return a / b
 
 def calculator():
-    print(f"Bienvenido al sistema de calculadora user {user}")
+    print(f"Welcome to the calculator system, user {user}")
     while True:
-        print("Opciones del 1 al 5")
-        print("1. Suma")
-        print("2. Resta")
-        print("3. Multiplicacion")
+        print("Options from 1 to 5")
+        print("1. Addition")
+        print("2. Subtraction")
+        print("3. Multiplication")
         print("4. Division")
-        print("5. Salir")
+        print("5. Exit")
 
-        opciones = input("Cual es tu opcion? (1,2,3,4,5) : ")
+        option = input("What is your option? (1, 2, 3, 4, 5): ")
 
-        if opciones == "5":
-            print("Saliste de la computadora")
+        if option == "5":
+            print("You exited the calculator")
             break
-        if opciones in ["1","2","3","4"]:
-            Numero1 = float(input("Ingrese Primer Numero: "))
-            Numero2 = float(input("Ingrese Segundo Numero: "))
+        if option in ["1", "2", "3", "4"]:
+            number1 = float(input("Enter the first number: "))
+            number2 = float(input("Enter the second number: "))
             
-            if opciones == "1":
-                print("🔥La suma es: ", suma(Numero1,Numero2))
-            elif opciones == "2":
-                print("🔥 resta es: ", resta(Numero1,Numero2))
-            elif opciones == "3":
-                print("🔥 multiplicacion es: ", multiplicacion(Numero1,Numero2))
-            elif opciones == "4":
-                print("🔥 Division es: ", division(Numero1,Numero2))
+            if option == "1":
+                print("🔥 The sum is: ", add(number1, number2))
+            elif option == "2":
+                print("🔥 The subtraction is: ", subtract(number1, number2))
+            elif option == "3":
+                print("🔥 The multiplication is: ", multiply(number1, number2))
+            elif option == "4":
+                print("🔥 The division is: ", divide(number1, number2))
         else:
-            print("😭 Ese Valor No Esta Acá")
+            print("😭 That value is not valid")
          
 calculator()
