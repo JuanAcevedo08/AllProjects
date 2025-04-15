@@ -1,0 +1,21 @@
+name,price,quantity,brand,category,entry_date,total_value
+MT-07,7200,5,Yamaha,Naked,2024-01-05,36000.0
+CBR500R,7300,4,Honda,Sport,2024-02-10,29200.0
+Ninja 400,6200,6,Kawasaki,Sport,2024-02-12,37200.0
+SV650,7500,3,Suzuki,Naked,2024-03-01,22500.0
+G 310 R,5800,7,BMW,Street,2024-03-15,40600.0
+Monster 797,9400,2,Ducati,Naked,2024-03-20,18800.0
+Iron 883,9990,3,Harley-Davidson,Cruiser,2024-04-01,29970.0
+Himalayan,5400,8,Royal Enfield,Adventure,2024-04-05,43200.0
+Duke 390,6100,5,KTM,Naked,2024-04-10,30500.0
+TNT 600,6300,4,Benelli,Street,2024-05-01,25200.0
+Street Twin,9400,2,Triumph,Classic,2024-05-05,18800.0
+RS 660,11500,2,Aprilia,SuperSport,2024-05-10,23000.0
+300NK,4200,6,CFMOTO,Naked,2024-05-15,25200.0
+DM200,2100,10,Italika,DualSport,2024-05-20,21000.0
+Blitz 110,1100,20,Motomel,Scooter,2024-05-25,22000.0
+ZR 150,1500,15,Zanella,Enduro,2024-06-01,22500.0
+Triax 150,1450,12,Corven,Enduro,2024-06-05,17400.0
+Smash 110,1050,18,Gilera,Scooter,2024-06-10,18900.0
+250 Adventure,3900,6,RVM,Adventure,2024-06-15,23400.0
+Wolf 250,3700,7,SYM,Street,2024-06-20,25900.0
