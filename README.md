@@ -8,7 +8,7 @@ Welcome to my repository! Here, I will store all my projects as I continue learn
 # Short Projects 🔵
 In this place you could acces to shor projects
 
-[![🔹 Short Projects](https://img.shields.io/badge/🔹-Short_Projects-blue?style=for-the-badge)](https://github.com/JuanAcevedo08/AllProjects/tree/21f81b629c7e70cff4ea69626467d5fea75b7c55/Short%20Exercise)
+[![🔹 Short Projects](https://img.shields.io/badge/🔹-Short_Projects-blue?style=for-the-badge)](https://github.com/JuanAcevedo08/AllProjects/tree/main/Short%20Exercise)
 
 ### Requirements
   
