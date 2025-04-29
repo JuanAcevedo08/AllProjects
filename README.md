@@ -18,7 +18,7 @@ In this place you could acces to shor projects
 
 # Big Projects 🔥
 
-[![🔥 Big Projects](https://img.shields.io/badge/🔥-Big_Projects-red?style=for-the-badge)](https://github.com/JuanAcevedo08/AllProjects#-big-projects)
+[![🔥 Big Projects](https://img.shields.io/badge/🔥-Big_Projects-red?style=for-the-badge)](https://github.com/JuanAcevedo08/Big-Projects)
 
 ## Requirements
   - Soon
