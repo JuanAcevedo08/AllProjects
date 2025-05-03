@@ -1,13 +1,15 @@
 import random
+import string
 
-def contraseña():
-    letras = ["@", "*", "#", "&", "/", "a", "c"]
-    numeros = random.randint(1,100)
-    pw = []
-    for n in range(10):
-        n = random.choice(letras)
-        pw.append(n)
-        n = numeros
-        pw.append(n)
-    print(pw)
-contraseña()
+def password():
+    counter = 0
+    pw = " "
+    while counter <= 10:
+        letters = list("@*#&abc") + list(string.ascii_letters)
+        numbers = random.randint(1, 100)
+        number = str(numbers)
+        letter = random.choice(letters)
+        pw += number + letter
+        counter += 1
+    print(pw) 
+password()
